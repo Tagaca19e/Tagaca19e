@@ -4,7 +4,7 @@
 
 
 <a href="#suhailkakar-title">
-  <img src="" alt="Eidmone" align="right" />
+  <img src="https://github-readme-stats.vercel.app/api?Tagaca19eanuraghazra" alt="Eidmone" align="right" />
 </a>
 
 - 🏫: &nbsp;I'm currently studying at **CSU Bakersfield**
