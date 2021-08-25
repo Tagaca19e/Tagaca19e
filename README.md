@@ -4,7 +4,7 @@
 
 
 <a href="#suhailkakar-title">
-  <img src="https://github-readme-stats.vercel.app/api?username=suhailkakar&show_icons=true&theme=react&count_private=true&include_all_commits=true" alt="Suhail Kakar" align="right" />
+  <img src="" alt="Suhail Kakar" align="right" />
 </a>
 
 - 🏫: &nbsp;I'm currently studying at **CSU Bakersfield**
@@ -13,7 +13,8 @@
 - :computer: &nbsp;Connect with me on **[LinkedIn]**
 
 
-<br>
+<br> 
+
 
 <h2 align="left" id="suhailkakar-tech">Favorite Tech</h2>
 
