@@ -7,12 +7,12 @@
   <img src="https://github-readme-stats.vercel.app/api?username=suhailkakar&show_icons=true&theme=react&count_private=true&include_all_commits=true" alt="Suhail Kakar" align="right" />
 </a>
 
-- :office: &nbsp;I'm currently working at **Nordstone UK**
+- 🏫: &nbsp;I'm currently studying at **CSU Bakersfield**
 - :seedling: &nbsp;I’m currently learning **Swift**
-- :speech_balloon: &nbsp;I like to talk about **Linux** and **Open Source**
-- :mailbox: &nbsp;Ask me about anything, I am happy to **help** :)
+- :mailbox: &nbsp;Ask me about anything, I am happy to **help** :D
+- - ⌨️: I like to build and develop applications <3
 - :computer: &nbsp;Connect with me on **[LinkedIn]**
-- :bird: &nbsp;Let's talk more in **Twitter**
+
 
 <br>
 
