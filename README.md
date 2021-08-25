@@ -4,7 +4,7 @@
 
 
 <a href="#suhailkakar-title">
-  <img src="" alt="Suhail Kakar" align="right" />
+  <img src="" alt="Eidmone" align="right" />
 </a>
 
 - 🏫: &nbsp;I'm currently studying at **CSU Bakersfield**
