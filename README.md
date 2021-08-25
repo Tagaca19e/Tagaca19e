@@ -8,9 +8,8 @@
 </a>
 
 - 🏫: &nbsp;I'm currently studying at **CSU Bakersfield**
-- :seedling: &nbsp;I’m currently learning **Swift**
 - :mailbox: &nbsp;Ask me about anything, I am happy to **help** :D
-- - ⌨️: I like to build and develop applications <3
+-  ⌨️: I like to build and develop applications <3
 - :computer: &nbsp;Connect with me on **[LinkedIn]**
 
 
@@ -197,4 +196,4 @@
 
 
 
-[linkedin]: https://www.linkedin.com/in/suhailkakar "Suhail Kakar LinkedIn"
+[linkedin]: https://www.linkedin.com/in/eidmone-tagaca-6ab45717b/ "Eidmone LinkedIn"
