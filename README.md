@@ -9,8 +9,8 @@
 - :mailbox: &nbsp;Ask me about anything, I am happy to **help** :D
 -  ⌨️: I like to build and develop applications <3
 - :computer: &nbsp;Connect with me on **[LinkedIn]**
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tagaca19e&show_icons=true&theme=radical)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=curiousgrids&theme=radical)
 <br> 
 
 
