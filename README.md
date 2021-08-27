@@ -27,7 +27,8 @@
 
 
 <a href="#suhailkakar-title">
-  <img src="(https://github-readme-stats.vercel.app/api?username=tagaca19e&show_icons=true&theme=radical" alt="Suhail Kakar" align="right" />
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tagaca19e&show_icons=true&theme=radical)
 </a>
 
 - :office: &nbsp;I'm currently working at **Nordstone UK**
