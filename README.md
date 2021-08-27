@@ -17,28 +17,12 @@
 
 
 
-[linkedin]: https://www.linkedin.com/in/eidmone-tagaca-6ab45717b/ "Eidmone LinkedIn"
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tagaca19e&show_icons=true&theme=radical)
-
-
-<h1 align="left" id="suhailkakar-title">:wave: Hello there! I'm Suhail Kakar</h1>
-<h3 align="left">I am a Software Developer at Nordstone </h3>
 
 
 <a href="#suhailkakar-title">
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tagaca19e&show_icons=true&theme=radical)
 </a>
-
-- :office: &nbsp;I'm currently working at **Nordstone UK**
-- :seedling: &nbsp;I’m currently learning **Swift**
-- :speech_balloon: &nbsp;I like to talk about **Linux** and **Open Source**
-- :mailbox: &nbsp;Ask me about anything, I am happy to **help** :)
-- :computer: &nbsp;Connect with me on **[LinkedIn]**
-- :bird: &nbsp;Let's talk more in **Twitter**
-
-<br>
 
 <h2 align="left" id="suhailkakar-tech">Favorite Tech</h2>
 
