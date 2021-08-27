@@ -27,6 +27,8 @@
 <h2 align="left" id="suhailkakar-tech">Favorite Tech</h2>
 
 > Tools, languages, and other things that I like to work with.
+
+
 <table align="center">
   <tr>
     <td align="center" width="96">
