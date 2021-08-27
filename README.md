@@ -24,9 +24,7 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tagaca19e&show_icons=true&theme=radical)
 </a>
 
-<h2 align="left" id="suhailkakar-tech">Favorite Tech</h2>
 
-> Tools, languages, and other things that I like to work with.
 
 
 
