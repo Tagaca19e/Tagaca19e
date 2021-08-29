@@ -52,5 +52,5 @@
 
 
 
-[linkedin]: https://www.linkedin.com/in/suhailkakar "Suhail Kakar LinkedIn"
+[linkedin]: https://www.linkedin.com/in/eidmone-tagaca-6ab45717b/ "Suhail Kakar LinkedIn"
 
