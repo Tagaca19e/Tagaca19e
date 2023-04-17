@@ -1,43 +1,34 @@
+```ts
+const user = {
+  name: 'Eidmone',
+  pronunciation: 'aid-mun',
+  additionalInfo: 'Love to code!',
+  website: 'eidmonetagaca.com',
+  education: {
+    level: 'Junior',
+    degree: 'Bachelors',
+    major: 'Computer Information Systems',
+  },
+  linkedin: 'https://linkedin.com/in/eidmone-tagaca/',
+}
+```
 
-<h1 align="left" id="suhailkakar-title">:wave: Hello! I'm Eidmone Tagaca</h1>
-<h3 align="left">I am a student who is currently majoring in Computer Science</h3>
+#### techs and tools ⌨️
 
+<img align="left" alt="C++" width="26px" src="https://res.cloudinary.com/deb6r2y8g/image/upload/v1659577550/1_dodz7y.png" />
 
+<img align="left" alt="TypeScript" width="26px" src="https://res.cloudinary.com/deb6r2y8g/image/upload/v1681705634/typescript_mpr04g.svg"/>
 
+<img align="left" alt="JavaScript" width="26px" src="https://res.cloudinary.com/deb6r2y8g/image/upload/v1659577557/2_tippqt.png" />
 
-- 🏫: &nbsp;I'm currently studying at **CSU Bakersfield**
-- :mailbox: &nbsp;Ask me about anything, I am happy to **help** :D
--  ⌨️: I like to build and develop applications <3
-- :computer: &nbsp;Connect with me on **[LinkedIn]**
+<img align="left" alt="Python" width="26px" src="https://res.cloudinary.com/deb6r2y8g/image/upload/v1659577560/3_m8nqbx.png" />
 
-<br> 
-<br>
+<img align="left" alt="React" width="26px" src="https://res.cloudinary.com/deb6r2y8g/image/upload/v1659577571/6_qeoyqz.png"/>
 
+<img align="left" alt="Next" width="26px" src="https://res.cloudinary.com/deb6r2y8g/image/upload/v1681707160/nextjs_oobcyf.svg"/>
 
+<img align="left" alt="PHP" width="26px" src="https://res.cloudinary.com/deb6r2y8g/image/upload/v1659577563/4_bsjrcc.png"/>
 
-
-### Languages and Tools:
-
-
-<a href="https://www.w3.org/html/" target="_blank"><img align="left" alt="HTML5" width="26px" src="https://res.cloudinary.com/deb6r2y8g/image/upload/v1659577550/1_dodz7y.png" /></a>
-<a href="https://www.w3schools.com/css/" target="_blank"><img align="left" alt="CSS3" width="26px" src="https://res.cloudinary.com/deb6r2y8g/image/upload/v1659577557/2_tippqt.png" /></a>
-<a href="https://www.w3schools.com/css/" target="_blank"><img align="left" alt="CSS3" width="26px" src="https://res.cloudinary.com/deb6r2y8g/image/upload/v1659577560/3_m8nqbx.png" /></a>
-
-<a href="https://www.w3schools.com/cpp/" target="_blank"> <img align="left" alt="C++" width="26px" src="https://res.cloudinary.com/deb6r2y8g/image/upload/v1659577571/6_qeoyqz.png"/> </a>
-<a href="https://git-scm.com/" target="_blank"> <img align="left" alt="git" width="26px" src="https://res.cloudinary.com/deb6r2y8g/image/upload/v1659577563/4_bsjrcc.png"/> </a>
 <img align="left" alt="MySQL" width="26px" src="https://res.cloudinary.com/deb6r2y8g/image/upload/v1659577566/5_iv3tgz.png" />
-<br />
-<br />
 
-<!--->
-
- 
-
-
-<!-- links -->
-
-
-
-
-[linkedin]: https://www.linkedin.com/in/eidmone-tagaca-6ab45717b/ "Eidmone LinkedIn"
-
+<img align="left" alt="MongoDB" width="26px" src="https://res.cloudinary.com/deb6r2y8g/image/upload/v1681707164/mongodb_omjpaz.svg" />
