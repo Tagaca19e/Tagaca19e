@@ -1,5 +1,6 @@
 ```ts
-const user = {
+// Some info about me.
+const me = {
   name: 'Eidmone',
   pronunciation: 'aid-mun',
   additionalInfo: 'Love to code!',
