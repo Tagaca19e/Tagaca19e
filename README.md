@@ -6,9 +6,9 @@ const me = {
   additionalInfo: 'Love to code!',
   website: 'eidmonetagaca.com',
   education: {
-    level: 'Junior',
+    level: 'Senior',
     degree: 'Bachelors',
-    major: 'Computer Information Systems',
+    major: 'Computer Science',
   },
   linkedin: 'https://linkedin.com/in/eidmone-tagaca/',
 }
